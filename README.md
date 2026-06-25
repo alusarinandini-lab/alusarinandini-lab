@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**alusarinandini-lab/alusarinandini-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Nandini Alusari</h1>
+<h3 align="center">Aspiring Software Engineer | Java | DSA | Cloud Computing</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Engineering Student
+- 💻 Currently learning Data Structures & Algorithms
+- ☁️ Exploring Cloud Computing
+- 🏆 Participating in Hackathons
+- 🌱 Building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=java,python,html,css,git,github)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=alusarinandini-lab)
+
+---
+
+## 📌 Featured Projects
+
+- Portfolio Website
+- Java DSA Practice
+- Cloud Computing Projects
+- Hackathon Projects
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/alusarinandini-lab
