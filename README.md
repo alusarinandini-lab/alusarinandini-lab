@@ -1,17 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nandini Alusari</h1>
-<h3 align="center">Java Developer | DSA Enthusiast | Cloud Learner</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github" />
-</p>
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nandini Alusari</h1>
-<h3 align="center">Aspiring Software Engineer | Java | DSA | Cloud Computing</h3>
+<h3 align="center">Aspiring Software Engineer | Java | DSA </h3>
 
 ---
 
