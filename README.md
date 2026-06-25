@@ -1,38 +1,50 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alusarinandini-lab/alusarinandini-lab/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png" alt="Banner">
-</p>
+
+# Hi, I'm Nandini 👋
+
+🚀 Java + Spring Boot Developer in progress  
+🎯 Focused on backend development and real-world projects  
+
+I’m currently focused on mastering **Java, Spring Boot, and backend systems** while building real-world projects.
+
+---
 
 
-# Hi 👋, I'm Nandini Alusari
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alusarinandini-lab&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-### 💻 About Me
-- Engineering Student
-- Learning Java & DSA
-- Building Real-World Projects
+## 💻 Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- HTML, CSS
+- Python (basic)
 
-### 🛠️ Tech Stack
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github" />
-</p>
+## 📌 Projects
+- Student Management System (Spring Boot)
+- Sales & Revenue Dashboard (Power BI)
+- Machine Learning Projects (Beginner level)
 
-### 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true)
+## 📈 Learning Goals
+- Spring Boot advanced (CRUD + REST APIs)
+- System Design basics
+- Real-world backend projects
+- GitHub portfolio building
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alusarinandini-lab)
+---
+## 🛠 Tech Stack
 
-### 💻 Most Used Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alusarinandini-lab&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true&theme=radical)
 
-### 🚀 Current Focus
-- Data Structures & Algorithms
-- Java Development
-- Hackathons
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alusarinandini-lab&layout=compact&theme=radical)
 
-### 🌐 Connect With Me
-
+## 📫 Contact
+- Email: alusarinandini@gmail.com
 - GitHub: https://github.com/alusarinandini-lab
