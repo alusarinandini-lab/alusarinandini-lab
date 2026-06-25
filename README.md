@@ -1,44 +1,35 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alusarinandini-lab/alusarinandini-lab/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png" alt="Banner">
+</p>
+# Hi 👋, I'm Nandini Alusari
 
-## Hi there 👋
+### 💻 About Me
+- Engineering Student
+- Learning Java & DSA
+- Exploring Cloud Computing
+- Building Real-World Projects
 
-<h1 align="center">Hi 👋, I'm Nandini Alusari</h1>
-<h3 align="center">Aspiring Software Engineer | Java | DSA </h3>
+### 🛠️ Tech Stack
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github" />
+</p>
 
-## 🚀 About Me
-
-- 🎓 Engineering Student
-- 💻 Currently learning Data Structures & Algorithms
-- ☁️ Exploring Cloud Computing
-- 🏆 Participating in Hackathons
-- 🌱 Building real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=java,python,html,css,git,github)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alusarinandini-lab)
 
----
+### 💻 Most Used Languages
 
-## 📌 Featured Projects
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alusarinandini-lab&layout=compact)
 
-- Portfolio Website
-- Java DSA Practice
-- Cloud Computing Projects
-- Hackathon Projects
+### 🚀 Current Focus
+- Data Structures & Algorithms
+- Java Development
+- Hackathons
 
----
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 - GitHub: https://github.com/alusarinandini-lab
