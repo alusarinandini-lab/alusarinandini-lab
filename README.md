@@ -1,4 +1,4 @@
-
+![Banner](https://raw.githubusercontent.com/alusarinandini-lab/alusarinandini-lab/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 # Hi, I'm Nandini 👋
 
 🚀 Java + Spring Boot Developer in progress  
@@ -7,15 +7,30 @@
 I’m currently focused on mastering **Java, Spring Boot, and backend systems** while building real-world projects.
 
 ---
+## 🛠 Tech Stack
 
-
-## 💻 Tech Stack
+### Languages
 - Java
+- Python
+- SQL
+
+### Backend
 - Spring Boot
-- MySQL
 - REST APIs
-- HTML, CSS
-- Python (basic)
+
+### Database
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Power BI
+---
+## 📈 Learning Goals
+- Spring Boot advanced (CRUD + REST APIs)
+- System Design basics
+- Real-world backend projects
+- GitHub portfolio building
 
 ---
 
@@ -26,13 +41,6 @@ I’m currently focused on mastering **Java, Spring Boot, and backend systems** 
 
 ---
 
-## 📈 Learning Goals
-- Spring Boot advanced (CRUD + REST APIs)
-- System Design basics
-- Real-world backend projects
-- GitHub portfolio building
-
----
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
