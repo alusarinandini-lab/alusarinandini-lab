@@ -1,12 +1,24 @@
 ![Banner](https://raw.githubusercontent.com/alusarinandini-lab/alusarinandini-lab/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
-# Hi, I'm Nandini 👋
 
-🚀 Java + Spring Boot Developer in progress  
-🎯 Focused on backend development and real-world projects  
+# 👋 Hi, I'm Nandini
 
-I’m currently focused on mastering **Java, Spring Boot, and backend systems** while building real-world projects.
+## 🚀 Java Developer | Spring Boot & Data Analytics Enthusiast
+
+I am a Computer Science student focused on building strong skills in **backend development and data-driven applications**.
+
+I enjoy learning by building real-world projects using Java, Spring Boot, and Machine Learning.
 
 ---
+
+## 🧠 About Me
+
+- Focused on backend development using Java & Spring Boot  
+- Interested in REST APIs and scalable systems  
+- Learning database design and system logic  
+- Passionate about data analytics and machine learning  
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -25,34 +37,35 @@ I’m currently focused on mastering **Java, Spring Boot, and backend systems** 
 - Git & GitHub
 - VS Code
 - Power BI
----
-## 📈 Learning Goals
-- Spring Boot advanced (CRUD + REST APIs)
-- System Design basics
-- Real-world backend projects
-- GitHub portfolio building
 
 ---
 
 ## 📌 Projects
-- Student Management System (Spring Boot)
-- Sales & Revenue Dashboard (Power BI)
-- Machine Learning Projects (Beginner level)
+
+### 🧑‍💻 Student Management System
+Java + Spring Boot application for managing student records using REST APIs.
+
+### 🧠 Breast Cancer Classification
+Neural network model for classification using Python and TensorFlow.
+
+### 📊 Sales Revenue Dashboard
+Power BI dashboard for analyzing business sales trends and KPIs.
+
+### 👥 Customer Segmentation
+Clustering-based data analytics project for customer grouping.
 
 ---
 
-## 🛠 Tech Stack
+## 📈 Current Focus
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-## 📊 GitHub Stats
+- Building Spring Boot REST APIs  
+- Improving backend development skills  
+- Practicing real-world projects  
+- Strengthening problem-solving skills  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alusarinandini-lab&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alusarinandini-lab&layout=compact&theme=radical)
+---
 
 ## 📫 Contact
-- Email: alusarinandini@gmail.com
+
+- Email: alusarinandini@gmail.com  
 - GitHub: https://github.com/alusarinandini-lab
