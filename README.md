@@ -49,9 +49,6 @@ Neural network model for classification using Python and TensorFlow.
 ### 📊 Sales Revenue Dashboard
 Power BI dashboard for analyzing business sales trends and KPIs.
 
-### 👥 Customer Segmentation
-Clustering-based data analytics project for customer grouping.
-
 ---
 
 ## 📈 Current Focus
