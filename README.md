@@ -17,26 +17,33 @@ I enjoy learning by building real-world projects using Java, Spring Boot, and Ma
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- Python
-- SQL
-- Javascript
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
 
-### Backend
-- Spring Boot
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
 - REST APIs
 
-### Database
-- MySQL
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools
-- Git & GitHub
-- VS Code
-- Power BI
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 ---
 
 ## 📌 Projects
