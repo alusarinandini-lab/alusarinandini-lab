@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/alusarinandini-lab/alusarinandini-lab/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
-## 🚀 Java Developer | Spring Boot & Data Analytics Enthusiast
+## 🚀 Java |DSA |Projects| Spring Boot & Data Analytics Enthusiast
 
 I am a Computer Science student focused on building strong skills in **backend development and data-driven applications**.
 
