@@ -23,6 +23,7 @@ I enjoy learning by building real-world projects using Java, Spring Boot, and Ma
 - Java
 - Python
 - SQL
+- Javascript
 
 ### Backend
 - Spring Boot
